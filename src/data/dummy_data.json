@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "title": "Abacate",
+    "description": "'Come abacate que faz bem!' - Vovó Juju",
+    "price": 9.99,
+    "imageUrl": "https://static.todamateria.com.br/upload/ab/ac/abacate-cke.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Abacaxi",
+    "description": "Mais doce que doce de batata doce!",
+    "price": 5.99,
+    "imageUrl": "https://static.todamateria.com.br/upload/ab/ac/abacaxi-0-cke.jpg?auto_optimize=low"
+  },
+  {
+    "id": "3",
+    "title": "Banana",
+    "description": "Se vc tiver na frente do quartel não pode comer, pq canibalismo é crime!",
+    "price": 6.99,
+    "imageUrl": "https://static.todamateria.com.br/upload/ba/na/banana-0-cke.jpg?auto_optimize=low"
+  },
+  {
+    "id": "4",
+    "title": "Figo",
+    "description": "Melhor que isso só dois disso!",
+    "price": 10.99,
+    "imageUrl": "https://static.todamateria.com.br/upload/fr/ut/fruta18-0-cke.jpg?auto_optimize=low"
+  },
+  {
+    "id": "5",
+    "title": "Goiaba",
+    "description": "Nem os bichos estragam a alegria de comer esta goiaba!",
+    "price": 10.99,
+    "imageUrl": "https://static.todamateria.com.br/upload/go/ai/goaiaba-cke.jpg?auto_optimize=low"
+  },
+  {
+    "id": "6",
+    "title": "Laranja",
+    "description": "Uma delícia! Se não experimentar não pode criticar!",
+    "price": 2.99,
+    "imageUrl": "https://static.todamateria.com.br/upload/la/ra/laranja-cke.jpg?auto_optimize=low"
+  },
+  {
+    "id": "7",
+    "title": "Melancia",
+    "description": "Duvido comer uma sozinho!! Mas que dá vontade dá!",
+    "price": 12.99,
+    "imageUrl": "https://static.todamateria.com.br/upload/me/la/melancia-cke.jpg?auto_optimize=low"
+  },
+  {
+    "id": "8",
+    "title": "Pitaia",
+    "description": "Tão boa que dá até dó de vender!!",
+    "price": 16.99,
+    "imageUrl": "https://static.todamateria.com.br/upload/pi/ta/pitaya.jpg?auto_optimize=low"
+  },
+  {
+    "id": "9",
+    "title": "Pimentão",
+    "description": "É com pimentão que o gosto fica bão!",
+    "price": 7.99,
+    "imageUrl": "https://s2.glbimg.com/DV0BJoVaIEax1qzAhCWwNWOk158=/620x466/smart/e.glbimg.com/og/ed/f/original/2021/04/14/como-plantar-pimentao-em-casa-getty-images-1.jpg"
+  }
+]
